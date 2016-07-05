@@ -1,0 +1,17 @@
+.post-title {
+  margin-top: 30px;
+}
+
+.categories {
+  margin-bottom: 20px;
+}
+
+.list-group-item {
+  cursor: pointer;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.list-group-item:hover {
+  background-color: #eee;
+}
